@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://northprose.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "North Prose"
 theme = "ananke"
+publishDir = "docs"
