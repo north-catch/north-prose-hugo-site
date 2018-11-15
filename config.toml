@@ -1,4 +1,4 @@
-baseURL = "http://northprose.com/"
+baseURL = "http://hugo.northprose.com/"
 languageCode = "en-us"
 title = "North Prose"
 theme = "ananke"

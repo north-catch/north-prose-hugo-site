@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>North Prose</title>
-    <link>http://northprose.com/</link>
+    <link>http://hugo.northprose.com/</link>
     <description>Recent content on North Prose</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://northprose.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hugo.northprose.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
